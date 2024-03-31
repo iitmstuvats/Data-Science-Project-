@@ -14,7 +14,7 @@ In the dataset each record represents a movie-review pair with movie title, desc
 2). Linear support vector machine
 3). Complement naive bayes
 
-###Comparision between these Three models before hyper parameter tunning
+### Comparision between these Three models before hyper parameter tunning
 
 **model 1 Logistic regression**
 
