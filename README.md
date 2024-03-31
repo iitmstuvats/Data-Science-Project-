@@ -30,7 +30,7 @@ Accuracy_train: 0.8587888380912589 Accuracy_test: 0.7973967539771815 F_1_train: 
 
 **From above I can say that Logistic regression is performing well**
 
-###Comparision between these Three models after hyper parameter tunning
+### Comparision between these Three models after hyper parameter tunning
 
 **model 1 Logistic regression**
 
